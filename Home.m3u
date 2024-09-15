@@ -2,28 +2,20 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, GTV
 http://103.89.248.26:8082/2LIVE/tracks-v1/index.fmp4.m3u8?token=6288e743fbd98f7733b2cc5efef50c17572ce3ca-ebef17c09c79af4ab62ba5c282378e2d-1726416805-1726406005
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, T sports
-http://103.89.248.26:8082/T-SPORTS/tracks-v1/index.fmp4.m3u8?token=14d203c08647c21ca78de89db4ef2fe1155d4b36-00676ea16c7d6b2ca9a367de881da809-1726417016-1726406216
-EXTINF:-1 tvg-id="41" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png", Star Sports select 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YoK2pusRsRJZkJDFap1I4A", "kid": "Qu1RkjiuTpKYc4trZ6G5Gw"}], "type": "temporary"}
-http://103.89.248.26:8082/en3-41/tracks-a1/index.fmp4.m3u8?token=948ce5c2628e0bfe39712449a3643880a94425f5-1cdfd3dd0d19ab31f8b55b9a641cb630-1726417204-1726406404
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”SPORTS”, T Sports
+http://103.89.248.14:8082/T-SPORTS/index.m3u8?token=58fab2df36981a23129e098e025c88eff7d677b7-07d85ee69ad2186d892a5bca1b65790e-1726423807-1726413007
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MAASRANGA
+http://103.89.248.26:8082/MAASRANGA-TV/tracks-a1/index.fmp4.m3u8?token=ab9035b2cb681de5d19b6c45d142713a6274220a-f05bc906f881a1a7538a0eb68eb3034c-1726423854-1726413054
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NAGORIK-TV
+http://103.89.248.26:8082/NAGORIK-TV/tracks-a1/index.fmp4.m3u8?token=a362121e539692da48454d1da46394367815258a-a34951
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MY-TV
+http://103.89.248.14:8082/MY-TV/tracks-v1a1/mono.m3u8?token=0ccceb0e4cffb3f97fd2c680938e72ffc0610838-e82cb7c7744f1bf30f8d4e5217a42b50-1726423634-1726412834
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MOHONA-TV
+http://103.89.248.26:8082/MOHONA-TV/tracks-a1/index.fmp4.m3u8?token=7eaaf89725d26872a333b07403ee1c607e63c920-fd730ba21ce4be90e097262324993108-1726423536-1726412736
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, BIJOY-TV
+http://103.89.248.10:8082/BIJOY-TV/tracks-v1a1/mono.m3u8?token=9c656c50fd0b5f6ad16889c72895ecd012cc0734-45e382e40e502ec8054265cbdea335b4-1726423701-1726412901
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
+http://103.89.248.14:8082/RTV/tracks-v1a1/mono.m3u8?token=e452de992dbfcce8d37024e5b180a615c42f6ce9-ac90feee17f9f5587258b6ac8a27aebf-1726422410-1726411610
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NTV
+http://103.89.248.10:8082/NTV/tracks-v1a1/mono.m3u8?token=3e3c8dccc928bd31f29f69514a0dd84b654fa45a-8aa3b7df58eb6f8ec05bbd4432215cbb-1726422751-1726411951
 
-#EXTINF:-1 tvg-logo=”” group-title=”Bangla”, star select
-http://103.89.248.26:8082/en3-41/tracks-a1/index.fmp4.m3u8?token=948ce5c2628e0bfe39712449a3643880a94425f5-1cdfd3dd0d19ab31f8b55b9a641cb630-1726417204-1726406404
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, starsports2
-http://103.89.248.26:8082/STAR-SPORTS-2/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-
-#EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YoK2pusRsRJZkJDFap1I4A", "kid": "Qu1RkjiuTpKYc4trZ6G5Gw"}], "type": "temporary"}
-http://103.89.248.14:8082/1LIVE/tracks-v1a1/mono.m3u8?token=9ac2b1e82ec0019ad4b8d564fcee30065dbe7b60-d3a4b4fe6de96824af3fbbab630841ce-1726413240-1726402440
-#EXTINF:-1 tvg-logo=”tv.location.href='play.php?stream=1LIVE'"><img src="assets/images/starsports1-SERVER-1.jpg” group-title=”Sports”, Star Sports 2
-http://103.89.248.26:8082/STAR-SPORTS-2/tracks-a1/index.fmp4.m3u8?token=2af47cd2c1e56c1c1621ceb6415b8f65ff682cc6-3c6a8e39215054132d1ae2439862c5f1-1726416954-1726406154
