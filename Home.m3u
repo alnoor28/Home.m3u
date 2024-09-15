@@ -18,4 +18,36 @@ http://103.89.248.10:8082/BIJOY-TV/tracks-v1a1/mono.m3u8?token=9c656c50fd0b5f6ad
 http://103.89.248.14:8082/RTV/tracks-v1a1/mono.m3u8?token=e452de992dbfcce8d37024e5b180a615c42f6ce9-ac90feee17f9f5587258b6ac8a27aebf-1726422410-1726411610
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NTV
 http://103.89.248.10:8082/NTV/tracks-v1a1/mono.m3u8?token=3e3c8dccc928bd31f29f69514a0dd84b654fa45a-8aa3b7df58eb6f8ec05bbd4432215cbb-1726422751-1726411951
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NEXUS-TV
+http://103.89.248.26:8082/NEXUS-TV/tracks-a1/index.fmp4.m3u8?token=23ca5c82f407ad2da7be0bb360aefaca6e8cdc2e-8c5a882bd60f7e4ae94db4830ed66e09-1726422596-1726411796
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, CHANNAL-I
+http://103.89.248.26:8082/CHANNAL-I/tracks-a1/index.fmp4.m3u8?token=97bc92a1ed1b1c7296108dcd1fd4e80071997cfe-32b93b1cbe3cf55f68d66dc9192dae77-1726422433-1726411633
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, 71-TV
+http://103.89.248.26:8082/71-TV/index.fmp4.m3u8?token=c2e2a86c8a930e37c8b5f0295105b37dbe0cf977-823aed24a91d253e9266ee09409c8758-1726422347-1726411547
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, INDEPENDENT-NEWS
+http://103.89.248.26:8082/INDEPENDENT-NEWS/tracks-a1/index.fmp4.m3u8?token=88498224e96301332c39a4ba16ca55825fe0dfd9-3525281fae32d6bff09193d07443bcb3-1726422312-1726411512
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, DBC-NEWS
+http://103.89.248.10:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=824cc7186a49f3ddc6afd63364aae21f96cc260f-38f332a988e110ab9c781e353e2464f8-1726422557-1726411757
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NEWS-24
+http://103.89.248.10:8082/NEWS-24/tracks-v1a1/mono.m3u8?token=60decd9230229e4e90fe56b20d38943a10675d5c-493f5fee9f9b89f39f844945a5a4e8a9-1726422499-1726411699
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, ATN-NEWS
+http://103.89.248.14:8082/ATN-NEWS/tracks-v1a1/mono.m3u8?token=6b3235c3a281297ba28df3240846b0b7a8170b44-d9ac5527130eb9216f225e557f3222e8-1726421915-1726411115
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, Channel 24
+http://103.89.248.26:8082/Chanal24/tracks-a1/index.fmp4.m3u8?token=3a0d51d4f9f8a5c4dcdb8591269815584771e440-4d19a2cff7e5d69d6dba9956b20171cf-1726417565-1726406765
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, zee-bangla
+http://103.89.248.26:8082/zee-bangla/tracks-a1/index.fmp4.m3u8?token=55eee88d6e888147ec84439e0fff1163c9d1c357-379329a1474e09c52ac47318e6028572-1726423499-1726412699
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, Star_jalsha
+http://103.89.248.10:8082/Star_jalsha/tracks-v1a1/2024/09/15/14/46/37-12110.ts?token=6b554d3c2be5b9ba427cbf82af9278225ad4305c-4e592f1a6da8b0f9682ee18dd8230272-1726422349-1726411549
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
+
+
+
 
