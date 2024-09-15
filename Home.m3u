@@ -4,7 +4,7 @@
 http://103.89.248.26:8082/2LIVE/tracks-v1/index.fmp4.m3u8?token=6288e743fbd98f7733b2cc5efef50c17572ce3ca-ebef17c09c79af4ab62ba5c282378e2d-1726416805-1726406005
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, T sports
 http://103.89.248.26:8082/T-SPORTS/tracks-v1/index.fmp4.m3u8?token=14d203c08647c21ca78de89db4ef2fe1155d4b36-00676ea16c7d6b2ca9a367de881da809-1726417016-1726406216
-EXTINF:-1 tvg-id="41" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png", Star Sports 1 HD
+EXTINF:-1 tvg-id="41" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png", Star Sports select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "YoK2pusRsRJZkJDFap1I4A", "kid": "Qu1RkjiuTpKYc4trZ6G5Gw"}], "type": "temporary"}
 http://103.89.248.26:8082/en3-41/tracks-a1/index.fmp4.m3u8?token=948ce5c2628e0bfe39712449a3643880a94425f5-1cdfd3dd0d19ab31f8b55b9a641cb630-1726417204-1726406404
