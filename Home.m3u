@@ -2,5 +2,5 @@
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+#EXTINF:-1 tvg-logo=”https://www.google.com/url?sa=i&url=https%3A%2F%2Flamhas.com%2Flogosliderwp%2Fstar-sports%2F&psig=AOvVaw1eJH-mffx2I6bkvoBW7FoN&ust=1726492253876000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDezYWDxYgDFQAAAAAdAAAAABAE” group-title=”Bangla”, Star Sports
 http://103.89.248.14:8082/1LIVE/tracks-v1a1/mono.m3u8?token=9ac2b1e82ec0019ad4b8d564fcee30065dbe7b60-d3a4b4fe6de96824af3fbbab630841ce-1726413240-1726402440
