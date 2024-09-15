@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, GTV
-http://103.89.248.26:8082/2LIVE/tracks-v1/index.fmp4.m3u8?token=6288e743fbd98f7733b2cc5efef50c17572ce3ca-ebef17c09c79af4ab62ba5c282378e2d-1726416805-1726406005
+http://103.89.248.14:8082/GAZI-TV/tracks-v1a1/mono.m3u8?token=284bfd96ebcf55447debb3c8d2aa8a20842bda10-f33320d836e29d7f2840e123764932ac-1726428748-1726417948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”SPORTS”, T Sports
 http://103.89.248.14:8082/T-SPORTS/index.m3u8?token=58fab2df36981a23129e098e025c88eff7d677b7-07d85ee69ad2186d892a5bca1b65790e-1726423807-1726413007
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MAASRANGA
