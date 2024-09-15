@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, GTV
 http://103.89.248.14:8082/GAZI-TV/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”SPORTS”, T Sports
-http://103.89.248.14:8082/T-SPORTS/index.m3u8
+http://bdiptv.net/play.php?stream=T-SPORTS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MAASRANGA
 http://103.89.248.14:8082/MAASRANGA-TV/tracks-v1a1/mono.m3u8?token=5d777f382d2656f694cf9eff3a421b4c2eb10c48-7581f1eb5c7278ec8a22e4b10cfb75e7-1726429002-1726418202
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NAGORIK-TV
