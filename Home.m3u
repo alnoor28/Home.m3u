@@ -11,7 +11,7 @@ http://103.89.248.26:8082/MAASRANGA-TV/tracks-a1/index.fmp4.m3u8?token=0a927d782
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MY-TV
 http://103.89.248.10:8082/MY-TV/index.m3u8?token=4c261c59c3fdbe4ea7fe7cdf93a87b3caca714e3-8f0e7e07ead66524d4f8a9cf997ac08a-1726606673-1726595873
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MOHONA-TV
-http://103.89.248.26:8082/MAASRANGA-TV/tracks-a1/index.fmp4.m3u8?token=0a927d782933c0b06aa2b76b4552f673117b7313-573db1962ce23a19209d445aff217485-1726606574-1726595774
+http://103.89.248.26:8082/MOHONA-TV/tracks-a1/index.fmp4.m3u8?token=b56fb7be2350018b3328f81c988d7d074bab4fc5-85fd044f10bb13867471a349003546e7-1726607114-1726596314
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, BIJOY-TV
 http://103.89.248.26:8082/BIJOY-TV/tracks-v1/index.fmp4.m3u8?token=b74c9bae081be09b06b352c4070c51d0942bdf44-c16aa226c8e69c605fe62cb10de3c134-1726606753-1726595953
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
