@@ -21,7 +21,7 @@ http://103.89.248.10:8082/NTV/tracks-v1a1/mono.m3u8?token=3e3c8dccc928bd31f29f69
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NEXUS-TV
 http://103.89.248.26:8082/NEXUS-TV/tracks-a1/index.fmp4.m3u8?token=23ca5c82f407ad2da7be0bb360aefaca6e8cdc2e-8c5a882bd60f7e4ae94db4830ed66e09-1726422596-1726411796
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, CHANNAL-I
-http://103.89.248.26:8082/CHANNAL-I/tracks-a1/index.fmp4.m3u8?token=97bc92a1ed1b1c7296108dcd1fd4e80071997cfe-32b93b1cbe3cf55f68d66dc9192dae77-1726422433-1726411633
+http://103.89.248.10:8082/CHANNAL-I/tracks-v1a1/mono.m3u8?token=96bea9313d4dff4acfc7a3956f1d928f3c2a663c-306ad1d65cf801fbc52a737c3a671bab-1726617375-1726606575
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, 71-TV
 http://103.89.248.26:8082/71-TV/index.fmp4.m3u8?token=c2e2a86c8a930e37c8b5f0295105b37dbe0cf977-823aed24a91d253e9266ee09409c8758-1726422347-1726411547
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, INDEPENDENT-NEWS
