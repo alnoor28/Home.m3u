@@ -5,11 +5,11 @@ http://103.89.248.14:8082/GAZI-TV/index.m3u8?token=6ab773dd2502ca046184cd5f07e22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”SPORTS”, T Sports
 http://103.89.248.10:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=a8f67a3fff0d171f9877896b9a3b6226008a21f6-7bcc10f4574e0edddcb8a6373bd9bb20-1726606401-1726595601
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MAASRANGA
-http://103.89.248.14:8082/GAZI-TV/index.m3u8?token=6ab773dd2502ca046184cd5f07e225edf4fc4226-7bb9e8fe3d3a29840141a10402584896-1726605271-1726594471
+http://103.89.248.14:8082/MAASRANGA-TV/tracks-v1a1/mono.m3u8?token=da15137b37ad9bdd15db2f5e25116c80098c21ab-b89a260ca9827d8731a534d9d1ac1796-1726606243-1726595443
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NAGORIK-TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MY-TV
-http://103.89.248.14:8082/GAZI-TV/index.m3u8?token=6ab773dd2502ca046184cd5f07e225edf4fc4226-7bb9e8fe3d3a29840141a10402584896-1726605271-1726594471
+http://103.89.248.10:8082/MY-TV/index.m3u8?token=4c261c59c3fdbe4ea7fe7cdf93a87b3caca714e3-8f0e7e07ead66524d4f8a9cf997ac08a-1726606673-1726595873
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MOHONA-TV
 http://103.89.248.26:8082/MOHONA-TV/tracks-v1/index.fmp4.m3u8?token=a725218ea3c8fb21671818b9ad1408cf0dcfaa07-071a91610e54e7fbd86a48af01182036-1726605843-1726595043
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, BIJOY-TV
