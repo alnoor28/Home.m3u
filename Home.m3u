@@ -7,11 +7,11 @@ http://103.89.248.14:8082/GAZI-TV/index.m3u8?token=6ab773dd2502ca046184cd5f07e22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MAASRANGA
 http://103.89.248.14:8082/GAZI-TV/index.m3u8?token=6ab773dd2502ca046184cd5f07e225edf4fc4226-7bb9e8fe3d3a29840141a10402584896-1726605271-1726594471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, NAGORIK-TV
-http://103.89.248.10:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8?token=d36f68e54b968fce62a839f6f66d3389f6c5b09d-244acc609f085f6cb073f201ad3cf358-1726429582-1726418782
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MY-TV
-http://103.89.248.14:8082/MY-TV/tracks-v1a1/mono.m3u8?token=0ccceb0e4cffb3f97fd2c680938e72ffc0610838-e82cb7c7744f1bf30f8d4e5217a42b50-1726423634-1726412834
+http://103.89.248.14:8082/GAZI-TV/index.m3u8?token=6ab773dd2502ca046184cd5f07e225edf4fc4226-7bb9e8fe3d3a29840141a10402584896-1726605271-1726594471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, MOHONA-TV
-http://103.89.248.26:8082/MOHONA-TV/tracks-a1/index.fmp4.m3u8?token=7eaaf89725d26872a333b07403ee1c607e63c920-fd730ba21ce4be90e097262324993108-1726423536-1726412736
+http://103.89.248.14:8082/GAZI-TV/index.m3u8?token=6ab773dd2502ca046184cd5f07e225edf4fc4226-7bb9e8fe3d3a29840141a10402584896-1726605271-1726594471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, BIJOY-TV
 http://103.89.248.10:8082/BIJOY-TV/tracks-v1a1/mono.m3u8?token=9c656c50fd0b5f6ad16889c72895ecd012cc0734-45e382e40e502ec8054265cbdea335b4-1726423701-1726412901
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/100px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”News BD”, RTV
